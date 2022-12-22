@@ -1,0 +1,3 @@
+aws_keys.tfvars
+.terraform*
+terraform*
